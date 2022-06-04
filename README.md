@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing android application
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 alisalhab258@gmail.com
 
 <!---
 ali-I-salhab/ali-I-salhab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
